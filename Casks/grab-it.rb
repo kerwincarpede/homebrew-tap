@@ -1,8 +1,8 @@
 cask "grab-it" do
-  version "0.7.41"
-  sha256 "11da359d9a713a5b03855ee8eeedf203d865e8eb70ce767fb387d63d6f55908c"
+  version "0.7.42"
+  sha256 "95a0667a1ca5e90f3c2fc65c6cfcf07d5a0bbf7e653d2b2350e0905c8d1d47bf"
 
-  url "https://github.com/kerwincarpede/grab-it/releases/download/v0.7.41/Grab-it_0.7.41_universal.dmg"
+  url "https://github.com/kerwincarpede/grab-it/releases/download/v0.7.42/Grab-it_0.7.42_universal.dmg"
   name "Grab-it"
   desc "Screenshot, annotate and paste anywhere"
   homepage "https://kerwincarpede.github.io/grab-it/"
